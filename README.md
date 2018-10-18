@@ -1,2 +1,2 @@
 # folder1
-moj prvi folder
+Ovo mi je prvi folder
